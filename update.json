@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1727084608,
-      "filename": "update.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdcc",
+      "filename": "24_sep_update.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdcd",
       "romtype": "nightly",
-      "size": 398065,
-      "url": "https://sin1.contabostorage.com/2855e1c7d1e94cbabbf72848dc7da005:fundo-admin/update.zip",
+      "size": 20446133,
+      "url": "https://sin1.contabostorage.com/2855e1c7d1e94cbabbf72848dc7da005:fundo-admin/24_sep_update.zip",
       "version": "34.1"
     }
   ]
