@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1727179283,
-      "filename": "24_sep_update.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acd33",
+      "datetime": 1731489141,
+      "filename": "update.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acd22",
       "romtype": "nightly",
-      "size": 20446133,
-      "url": "https://sin1.contabostorage.com/2855e1c7d1e94cbabbf72848dc7da005:fundo-admin/24_sep_update.zip",
-      "version": "493"
+      "size": 11841352,
+      "url": "https://sin1.contabostorage.com/2855e1c7d1e94cbabbf72848dc7da005:clicker-ota/update.zip",
+      "version": "494"
     }
   ]
 }
